@@ -1,0 +1,13 @@
+export const LOGIN = "LOGIN";
+export const STARTUP = "STARTUP";
+export const SETUSERNAME = "SETUSERNAME";
+export const SETQUESTIONTYPE = "SETQUESTIONTYPE";
+export const SETQUESTIONS = "SETQUESTIONS";
+export const RESETQUESTIONTYPE = "RESETQUESTIONTYPE";
+export const COMPLETEQUIZ = "COMPLETEQUIZ";
+export const MAKEERROR = "MAKEERROR";
+export const CLEARERROR = "CLEARERROR";
+export const CLEAREXAM = "CLEAREXAM";
+export const SETEXAM = "SETEXAM";
+export const SETNOOFMCQ = "SETNOOFMCQ"
+export const SETMEDIUM  = "SETMEDIUM"

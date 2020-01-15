@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1037849384495",
+    "firebase_url": "https://sl-exam-mcq.firebaseio.com",
+    "project_id": "sl-exam-mcq",
+    "storage_bucket": "sl-exam-mcq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037849384495:android:a40da131e92eb2ac2298da",
+        "android_client_info": {
+          "package_name": "com.jprappssolutions.slexammcq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037849384495-809ip12jbcpdu4kkojhqj1a8949pvi3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmjnHU03XwDfenC3smaekS3HdrIphygEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037849384495-809ip12jbcpdu4kkojhqj1a8949pvi3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
